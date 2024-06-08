@@ -1,0 +1,9 @@
+1001/Mango/10/30/Fruits
+1002/Onion/5/60/vegetables
+1003/Chipsy/7/50/snacks
+1004/Pepsi/5/60/Drinks
+1002/Onion/5/50/vegetables
+1002/Onion/5/57/vegetables
+1/choco/100/10/choco
+1/choco/100/1000/choco
+1002/Onion/5/50/vegetables
